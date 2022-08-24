@@ -1,0 +1,19 @@
+[2021-11-18 04:10:58,243] {DEBUG} __main__: #29 - Starting Division!
+[2021-11-18 04:10:59,740] {INFO} __main__: #31 - 6.0
+[2021-11-18 04:11:00,854] {INFO} __main__: #33 - 3.0
+[2022-08-14 02:39:22,056] INFO - 1234
+[2022-08-14 02:39:27,706] INFO - Amount Deposited: $50.0
+[2022-08-14 02:39:27,706] INFO - Transaction Info:
+[2022-08-14 02:39:32,159] INFO - You withdrew: $20.0
+[2022-08-14 02:39:32,159] INFO - Transaction Info:
+[2022-08-14 02:39:32,159] INFO - Status: Successful
+[2022-08-14 02:39:32,159] INFO - Transaction #860543
+[2022-08-14 02:39:32,159] INFO - Available Balance = $130.0
+[2022-08-14 02:39:58,657] INFO - 1234
+[2022-08-14 02:40:04,419] INFO - Amount Deposited: $5.0
+[2022-08-14 02:40:04,419] INFO - Transaction Info:
+[2022-08-14 02:40:11,450] INFO - You withdrew: $10.0
+[2022-08-14 02:40:11,450] INFO - Transaction Info:
+[2022-08-14 02:40:11,450] INFO - Status: Successful
+[2022-08-14 02:40:11,450] INFO - Transaction #878938
+[2022-08-14 02:40:11,450] INFO - Available Balance = $95.0
