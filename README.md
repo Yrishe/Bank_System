@@ -1,6 +1,6 @@
 # Bank_System
 
-This project represent a simple bank system. 
+This project simulates a simple bank system. 
 
 The system allows the user to make deposits, taking the following steps: 
 
